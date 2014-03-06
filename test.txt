@@ -17,3 +17,13 @@ drwxr-xr-x+ 1 markwilliams None    0 Mar  5 16:44 deploy
 drwxr-xr-x+ 1 markwilliams None    0 Mar  5 16:46 img
 -rw-r--r--  1 markwilliams None  668 Mar  5 16:50 README.md
 -rw-r--r--  1 markwilliams None   80 Mar  6 10:53 test.txt
+total 36K
+-rw-r--r--  1 markwilliams None  620 Mar  6 11:05 test.txt
+-rw-r--r--  1 markwilliams None  668 Mar  5 16:50 README.md
+drwxr-xr-x+ 1 markwilliams None    0 Mar  5 16:46 img
+drwxr-xr-x+ 1 markwilliams None    0 Mar  5 16:44 deploy
+-rwxr-xr-x  1 markwilliams None  707 Mar  5 16:44 App-debug.html
+-rwxr-xr-x  1 markwilliams None  208 Mar  5 16:44 config.json
+-rwxr-xr-x  1 markwilliams None 5.9K Mar  5 16:43 App.js
+-rwxr-xr-x  1 markwilliams None 1.1K Mar  5 12:36 LICENSE
+-rwxr-xr-x  1 markwilliams None   40 Mar  5 12:36 app.css
