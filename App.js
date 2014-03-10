@@ -169,7 +169,11 @@ Ext.define('CustomApp', {
                 {
                     text: 'Owner', dataIndex: 'Owner',
                     renderer: function(value) {
-                        return value._refObjectName;
+                        if (value) {
+                            return value._refObjectName;
+                        } else {
+                            return "No Owner";
+                        }
                     },
                     flex: 1
                 },
